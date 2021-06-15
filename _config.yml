@@ -32,8 +32,11 @@ navbar-links:
     - Meetings: "meetings"
     - Youtube: "https://www.youtube.com/frenchpowershellusergroup"  
   PS Saturday:
-    - '2017/09/16': "https://www.meetup.com/FrenchPSUG/events/239169341/"
-    - '2018/09/15': "powershellsat-2018"
+    - '2020': "powershellsat-2020"
+    - '2019': "powershellsat-2019"
+    - '2018': "powershellsat-2018"
+    - '2017': "https://www.meetup.com/FrenchPSUG/events/239169341/"
+    
   À propos:
     - User Group: "about"
     - Organisateurs: "organisateurs"
@@ -117,7 +120,7 @@ url-pretty: "frpsug.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-85043095-3"
 
 # Google Tag Manager ID
 #gtm: ""
